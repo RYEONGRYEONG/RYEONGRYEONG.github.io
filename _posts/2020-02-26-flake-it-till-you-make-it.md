@@ -1,8 +1,8 @@
 ---
 layout: post
 title: first post
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: "C:\Users\LG\Desktop\dogs.jpg"
+subtitle: !!!happy happy smile!!!
+cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
