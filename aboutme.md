@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Aren't you curious about me? :.>
+subtitle: Aren't you curious about me? :->
 ---
 
 Hi! I'm SeongRyeong Jo. I am 20👼
