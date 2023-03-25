@@ -8,5 +8,5 @@ share-img: /assets/img/path.jpg
 tags: [blog, first, post]
 ---
 
-first post haha~!
+first post haha~!  
 I feel rally great about making completed this blog successfully :)
