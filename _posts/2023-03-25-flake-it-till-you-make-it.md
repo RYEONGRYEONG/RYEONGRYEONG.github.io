@@ -2,7 +2,7 @@
 layout: post
 title: first post
 subtitle: !!! happy happy smile!!!❤️
-thumbnail-img: /assets/img/dogs.png
+thumbnail-img: /assets/img/smile.png
 share-img: /assets/img/path.jpg
 tags: [blog, first, post]
 ---
