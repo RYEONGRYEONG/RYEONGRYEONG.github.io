@@ -14,7 +14,7 @@ I took photos at my university!
 beautiful🌸  
 How about going there with me ?
 
-but I have too many things to do ~!!~!!~!!  
+but I have too many things to do ~!!~!!!~!!  
 ![love](https://user-images.githubusercontent.com/126739223/227749112-d7f459ce-6c7c-4a66-8bac-dad2310fe744.png)
 ![crying](https://user-images.githubusercontent.com/126739223/227748785-e8c665c1-4db1-4883-8ec7-1ec9e0581cd4.jpg)
 
