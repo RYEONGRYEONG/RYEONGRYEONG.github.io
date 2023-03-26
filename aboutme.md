@@ -4,7 +4,7 @@ title: About me
 subtitle: Aren't you curious about me? :->
 ---
 
-Hi! I'm Seongryeong Jo. I am 20👼
+Hi! I'm Seongryeong Jo. I am 20 years old.
 
 The keyword that represents me  
   🙋 down to earth   
@@ -16,7 +16,7 @@ The keyword that represents me
   🙋 independent    
   🙋 perfectionism   
 
-💻 I'm majoring in Computer Engineering at Dong-a university  
+I'm majoring in Computer Engineering at Dong-a university  
       and advertisement director of student council.
 
 What else do you need?
