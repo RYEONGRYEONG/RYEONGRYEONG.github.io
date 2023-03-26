@@ -3,7 +3,6 @@ layout: post
 title: Second post
 thumbnail-img: assets/img/flower.jpg
 share-img: /assets/img/path.jpg
-tags: [blog, post, posting]
 comments: true
 ---
 
