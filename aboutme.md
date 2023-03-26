@@ -4,7 +4,7 @@ title: About me
 subtitle: Aren't you curious about me? :->
 ---
 
-Hi! I'm SeongRyeong Jo. I am 20👼
+Hi! I'm Seongryeong Jo. I am 20👼
 
 The keyword that represents me  
   🙋 down to earth   
