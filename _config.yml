@@ -20,7 +20,7 @@ author: JO SEONGRYEONG
 ###############################################
 
 navbar-links:
-  <span style="color:red>About Me</span>: "aboutme"
+  About Me: "aboutme"
     
 
 ################
