@@ -2,8 +2,6 @@
 layout: post
 title: Second post
 subtitle: Each post also has a subtitle
-gh-repo: RYEONGRYEONG/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [blog, post, posting]
 comments: true
 ---
