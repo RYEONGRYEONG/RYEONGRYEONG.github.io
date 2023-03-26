@@ -1,6 +1,6 @@
 ---
 layout: post
-#### title: first post
+title: first post
 subtitle: !!! happy happy smile!!!❤️
 thumbnail-img: /assets/img/smile.jpg
 share-img: /assets/img/path.jpg
