@@ -13,7 +13,7 @@ comments: true
 🌸spring🌸 is already here.  
 I took photos at my university!
 beautiful🌸  
-How about going to there with me ?
+How about going there with me ?
 
 but I have too many things to do ~!!~!!~!!  
 ![love](https://user-images.githubusercontent.com/126739223/227749112-d7f459ce-6c7c-4a66-8bac-dad2310fe744.png)
