@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second post
+title: second post
 thumbnail-img: assets/img/flower.jpg
 share-img: /assets/img/path.jpg
 comments: true
