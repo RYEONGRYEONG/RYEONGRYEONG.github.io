@@ -7,14 +7,14 @@ subtitle: Aren't you curious about me? :->
 Hi! I am Seongryeong.
 
 The keywords that represent me  
-  🙋🏻‍♀ down to earth   
-  🙋🏻‍♀ outgoing   
-  🙋🏻‍♀ proactive   
-  🙋🏻‍♀ passionate   
-  🙋🏻‍♀ confident   
-  🙋🏻‍♀ mature   
-  🙋🏻‍♀ independent    
-  🙋🏻‍♀ perfectionism   
+  👧🏻 down to earth   
+  👧🏻 outgoing   
+  👧🏻 proactive   
+  👧🏻 passionate   
+  👧🏻 confident   
+  👧🏻 mature   
+  👧🏻 independent    
+  👧🏻 perfectionism   
 
 I'm majoring in Computer Engineering at Dong-a university  
       and advertisement director of student council.
