@@ -16,7 +16,7 @@ The keyword that represents me
   🙋 independent    
   🙋 perfectionism   
 
-💻 I'm majoring in Computer Engineering at Dong-a university.
+💻 I'm majoring in Computer Engineering at Dong-a university.  
    I'm advertisement director of student council.
 
 What else do you need?
