@@ -2,6 +2,8 @@
 layout: post
 title: Second post
 subtitle: Each post also has a subtitle
+thumbnail-img: /assets/img/smile.jpg
+share-img: /assets/img/path.jpg
 tags: [blog, post, posting]
 comments: true
 ---
