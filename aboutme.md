@@ -4,9 +4,9 @@ title: About me
 subtitle: Aren't you curious about me? :->
 ---
 
-Hi! I am Seongryeong.👼🏻
+Hi! I am Seongryeong.
 
-there are The keywords that represent me  
+The keywords that represent me  
   🙋🏻‍♀ down to earth   
   🙋🏻‍♀ outgoing   
   🙋🏻‍♀ proactive   
