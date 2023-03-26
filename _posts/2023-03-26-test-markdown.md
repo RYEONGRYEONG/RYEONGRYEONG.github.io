@@ -7,7 +7,7 @@ tags: [blog, post, posting]
 comments: true
 ---
 
-🌸spring🌸 is already here.   
+<span style="color:violet"> spring </span> 🌸spring🌸 is already here.   
 I took photos at my university!
 beautiful🌸  
 How about going there with me ?  
