@@ -6,7 +6,7 @@ subtitle: Aren't you curious about me? :->
 
 Hi! I am Seongryeong.
 
-The keyword that represents me  
+there are The keywords that represent me  
   🙋 down to earth   
   🙋 outgoing   
   🙋 proactive   
