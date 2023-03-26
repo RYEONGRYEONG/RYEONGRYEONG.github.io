@@ -12,11 +12,11 @@ comments: true
 This is where i take a photo at my university!
 beautiful🌸
 
-How about going to there ?
+How about going to there with me ?
 
-![crying](https://user-images.githubusercontent.com/126739223/227748785-e8c665c1-4db1-4883-8ec7-1ec9e0581cd4.jpg)Iibut i  
-but I have too many things to do ~!~!!!~!!
+but I have too many things to do ~!~!!!~!!  
 ![love](https://user-images.githubusercontent.com/126739223/227749112-d7f459ce-6c7c-4a66-8bac-dad2310fe744.png)
+![crying](https://user-images.githubusercontent.com/126739223/227748785-e8c665c1-4db1-4883-8ec7-1ec9e0581cd4.jpg)
 
 
 
